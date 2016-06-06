@@ -1,1 +1,1 @@
-# Docker Compose AngularJS and Tutum — Part 2
+# add basic login to tutorial
